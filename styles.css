@@ -206,14 +206,14 @@ button {
 
 @media only screen and (max-width: 700px) {
   .box-container {
-    padding: 0 40px;
+    padding: 0 50px;
     width: 100%;
   }
   #histories {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
   #blog {
-    right: 15px;
+    right: 20px;
   }
 }
 @media only screen and (min-width: 705px) and (max-width: 1250px) {
