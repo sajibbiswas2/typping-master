@@ -125,6 +125,7 @@ const start = () => {
 
 // START Countdown
 startBtn.addEventListener("click", start);
+console.log(startBtn)
 
 // If history exists, show it
 displayHistory();
